@@ -8,7 +8,7 @@
 /*
 ***********************************************************************************/
 
-	option compress = binary; 
+	option compress = binary; /* Option de compression données chiffrées */
 	options fullstimer;
 	OPTIONS MSGLEVEL=I;
 	
